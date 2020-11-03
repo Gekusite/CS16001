@@ -8,6 +8,6 @@
 
 ## Download
 
- **Google Drive:** [de_hazard](https://drive.google.com/drive/folders/1Z1ANAxyPTgeTy7ZpaV4CX8-d-4y4gYq6?usp=sharing) (Test Version)
+ **Google Drive:** [de_hazard (Test Version)](https://drive.google.com/drive/folders/1Z1ANAxyPTgeTy7ZpaV4CX8-d-4y4gYq6?usp=sharing)
  
  [<< To Home Page](https://gekusite.github.io/Geku/)
