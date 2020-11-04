@@ -4,7 +4,7 @@
 <img src="" width="100" height="100"> <img src="" width="100" height="100">
 
 ## Description
-**de_hazard** is a defuse map set in research facility located in the Southwest region of USA.
+**de_hazard** is a defuse map set in research facility located in the southwest region of USA.
 
 ## Download
 
