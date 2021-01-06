@@ -1,7 +1,7 @@
 [<< To Home Page](https://gekusite.github.io/Geku/)
 # de_hazard
 
-<img src="https://gamebanana.com/maps/embeddables/213920?type=large_minimal_square" width="100" height="100"> 
+<img src="https://gamebanana.com/maps/embeddables/213920?type=large_minimal" width="700" height="140"> 
 
 ## Description
 **de_hazard** is a bomb defusal map. The map takes place in research facility located in Southwestern region of USA.
