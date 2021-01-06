@@ -4,7 +4,7 @@
 <img src="https://gamebanana.com/maps/embeddables/213920?type=large_minimal" width="700" height="140"> 
 
 ## Description
-**de_hazard** is a bomb defusal map. The map takes place in research facility located in Southwestern region of USA.
+**de_hazard** is a Counter-Strike bomb defusal map. The map takes place in research facility located in Southwestern region of USA.
 
 ## Download
 
