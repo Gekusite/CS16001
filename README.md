@@ -11,7 +11,7 @@
  **Google Drive:** [de_hazard](https://drive.google.com/file/d/1FAu769L0QJC5-Wy6FWGrFHYF_j3KJqpw/view?usp=sharing)<br/>
  **Gamebanana:** [de_hazard](https://gamebanana.com/maps/213920)<br/>
  
- ## Screenshots
+## Screenshots
  
  <img src="https://screenshots.gamebanana.com/img/ss/maps/5ff4ca6e67381.jpg" width="600" height="337"> <br/>
  <img src="https://screenshots.gamebanana.com/img/ss/maps/5ff4c6624c0ee.jpg" width="600" height="337"> <br/>
