@@ -8,7 +8,7 @@
 
 ## Download
 
- **Google Drive:** [de_hazard (Test Version)](https://drive.google.com/drive/folders/1Z1ANAxyPTgeTy7ZpaV4CX8-d-4y4gYq6?usp=sharing)<br/>
+ **Google Drive:** [de_hazard (Beta Version)](https://drive.google.com/drive/folders/1Z1ANAxyPTgeTy7ZpaV4CX8-d-4y4gYq6?usp=sharing)<br/>
  **Gamebanana:** [de_hazard](https://gamebanana.com/maps/213920)<br/>
  
  ## Screenshots
